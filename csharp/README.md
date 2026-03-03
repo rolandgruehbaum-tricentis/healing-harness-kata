@@ -1,6 +1,6 @@
 # TodoApp
 
-A simple C# todo application for practicing AI feedback loops. Learn to reduce pain by translating human intent into action, verified through continuous ground-truth feedback loops.
+A simple C# todo application for practicing AI feedback loops. Practice building a harness that translates human intent to address technical debt into an automated feedback loop.
 
 ![Feedback Loop](../feedback-loop.svg)
 
