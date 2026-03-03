@@ -1,6 +1,8 @@
-# Healing With Grounded Signals 
+# Building a Healing Harness 
 
-Practice building AI systems that reduce pain by translating human intent into action, verified through continuous ground-truth feedback loops.
+Practice building a harness that translates human intent to address technical debt into an automated feedback loop.
+
+![Feedback Loop](feedback-loop.svg)
 
 ## Projects
 
